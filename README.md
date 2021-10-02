@@ -7,15 +7,15 @@ a Disease detection & suggestions system? By saying Disease detection & suggesti
 system, we take meaning of it for patient’s disease. 
 
 <p>
-	<img src="https://github.com/usama-akram-gt/disease-detection/blob/master/screenshots/1.jpeg" width="250" height="500">
-	<img src="https://github.com/usama-akram-gt/disease-detection/blob/master/screenshots/2.jpeg" width="250" height="500">
-	<img src="https://github.com/usama-akram-gt/disease-detection/blob/master/screenshots/3.jpeg" width="250" height="500">
+	<img src="https://github.com/NAZRULSANI/disease-detection/blob/master/screenshots/1.jpeg" width="250" height="500">
+	<img src="https://github.com/NAZRULSANI/disease-detection/blob/master/screenshots/2.jpeg" width="250" height="500">
+	<img src="https://github.com/NAZRULSANI/disease-detection/blob/master/screenshots/3.jpeg" width="250" height="500">
 </p>
 
 1. First Clone Project.
 
 ```cmd
-git clone https://github.com/usama-akram-gt/disease-detection.git
+git clone https://github.com/NAZRULSANI/disease-detection.git
 ```
 
 2. Install dependencies.
