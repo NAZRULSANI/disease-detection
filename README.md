@@ -6,6 +6,12 @@ patient’s disease prediction as well as provide diet plan table. Now what is
 a Disease detection & suggestions system? By saying Disease detection & suggestions
 system, we take meaning of it for patient’s disease. 
 
+APK Link.
+
+```cmd
+https://drive.google.com/file/d/1ybV0BQDrxCoq4iHM4TxhBbb-rvlXAdXg/view?usp=sharing
+```
+
 <p>
 	<img src="https://github.com/NAZRULSANI/disease-detection/blob/master/screenshots/1.jpeg" width="250" height="500">
 	<img src="https://github.com/NAZRULSANI/disease-detection/blob/master/screenshots/2.jpeg" width="250" height="500">
